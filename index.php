@@ -20,16 +20,13 @@
     * {
       font-family: comic sans;
     }
-
     a:link {
-      color: white;
+      color: rgb(7, 122, 175);
     }
-
     a:hover {
-      color: white;
+      color: rgb(173, 0, 58);
       text-decoration: none;
     }
-
     h5 {
       color: teal
     }
@@ -38,7 +35,6 @@
   color: #8d97ad;
   font-weight: 300;
 }
-
 .blog-home2 h1,
 .blog-home2 h2,
 .blog-home2 h3,
@@ -47,54 +43,43 @@
 .blog-home2 h6 {
   color: #3e4555;
 }
-
 .blog-home2 .font-weight-medium {
   font-weight: 500;
 }
-
 .blog-home2 .bg-light {
   background-color: #f4f8fa !important;
 }
-
 .blog-home2 .subtitle {
   color: #8d97ad;
   line-height: 24px;
 }
-
 .blog-home2 .text-themecolor {
   color: #316ce8;
 }
-
 .blog-home2 h5 {
   line-height: 22px;
   font-size: 18px;
 }
-
 .blog-home2 a.link {
   color: #3e4555;
 }
-
 .blog-home2 a.link:hover {
   color: #316ce8;
 }
-
 .blog-home2 .on-hover {
   -webkit-transition: 0.2s ease-in;
   -o-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
 }
-
 .blog-home2 .on-hover:hover {
   -webkit-transform: translateY(-10px);
   -ms-transform: translateY(-10px);
   transform: translateY(-10px);
 }
-
 .blog-home2 .date-pos {
   right: 10px;
   top: 10px;
 }
-
 .blog-home2 .date-pos span {
   font-size: 30px;
   line-height: 30px;
@@ -109,7 +94,6 @@
 }
   </style>
 </head>
-
 <body>
   <nav>
     <div class="container-fluid nav-wrapper  grey darken-3 z-depth-5">
@@ -121,7 +105,6 @@
       </ul>
     </div>
   </nav>
-
   <div class="blog-home2 py-5">
         <div class="container">
          
@@ -157,24 +140,18 @@
           </div>
         </div>
       </div>
-
   </div>
   <!--sectio-->
-
-
   <footer class="center footer">
     <br>
     <h6 class="info"><b>Alankrit Vyas © 2021 The Sparks Bank</b></h6>
     
   </footer>
-
   <script src="./js/main.js"></script>
   <!-- Optional JavaScript -->
-
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
-
 </html>
