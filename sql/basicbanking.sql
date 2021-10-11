@@ -43,7 +43,7 @@ INSERT INTO `customer` (`cust_id`, `cust_name`, `cust_email`, `cust_balance`) VA
 (2, 'Arun Poonia', 'ap@email.com', '500000'),
 (3, 'Venkat Swami', 'venkatswami@email.com', '75000'),
 (4, 'Ramesh Khatri', 'rameshl@email.com', '10000'),
-(5, 'Elon Musk', 'musk.elon@email.com', '1000000'),
+(5, 'Jeffery Bezos', 'jeffbezos@email.com', '1520000'),
 (6, 'Mukesh Ambani', 'ambani@email.com', '10000000'),
 (7, 'Karan Saxena', 'saxenak@email.com', '500000'),
 (8, 'Aman Kumar', 'ak@email.com', '75000'),
