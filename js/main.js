@@ -1,4 +1,4 @@
-
+// Main Javascript file for side navigation bar
   document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.sidenav');
     var instances = M.Sidenav.init(elems, options);
